@@ -7,6 +7,6 @@ This project is about the use of variable and loops to create pay slips for 400 
 
 The second code is also about the same objective but the gender and the level of the worker was detailed in this case.
 
-In each of the cases, payslips was printed to showcase the use of loop but in python and R respectively
+In each of the cases, payslips was printed to showcase the use of loop both in python and R respectively
 
-This is also exception handling included in the codes
+There is also exception handling included in the codes
