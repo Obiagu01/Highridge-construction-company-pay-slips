@@ -5,8 +5,8 @@ This is  python and R introductory assignment that describes the applications of
 
 This project is about the use of variable and loops to create pay slips for 400 workers of this construction company
 
-The second code is also about the same objective but the gender and the level of the worker was detailed in this case.
+It also encompases the use of loop in the identification of gender as well as grade level in the construction company 
 
 In each of the cases, payslips was printed to showcase the use of loop both in python and R respectively
 
-There is also exception handling included in the codes
+There is also exception handling in both python and R included 
